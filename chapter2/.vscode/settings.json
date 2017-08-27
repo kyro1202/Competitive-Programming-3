@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "valarray": "cpp",
+        "bitset": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp"
+    }
+}
